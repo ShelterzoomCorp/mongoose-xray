@@ -15,7 +15,7 @@
   "license": "MIT",
   "peerDependencies": {
     "aws-xray-sdk-core": "3.x",
-    "mongoose": "5.x"
+    "mongoose": "6.x"
   },
   "devDependencies": {
     "@types/chai": "^4.2.11",
